@@ -1,0 +1,14 @@
+ALG
+Longest line (23): 2. Alice through Q.’s 3d (_by railwayv) to 4th (_Tweedledum and Tweedledee_)
+Shortest line (0): 
+Average length: 53
+
+TTL
+Longest line (14153): Ecclesiastes—“Who can fathom the soundless depths?”—two men out of all
+Shortest line (2041): N
+Average length: 58
+
+WOO
+Longest line (3491): Dorothy stood up and found she was in her stocking-feet. For the Silver
+Shortest line (1687): Oz.
+Average length: 58
